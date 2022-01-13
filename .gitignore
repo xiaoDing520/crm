@@ -1,0 +1,7 @@
+.idea/
+target/
+.mvn/
+crm.iml
+HELP.md
+mvnw
+mvnw.cmd
